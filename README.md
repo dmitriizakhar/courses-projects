@@ -26,11 +26,11 @@
 
 **Навыки и инструменты**: `Python`, `Pandas`, `Matplotlib`, `когортный анализ`, `юнит-экономика`, `продуктовые метрики`
 
-### [5. Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста](https://nbviewer.jupyter.org/github/dmitriizakhar/courses-projects/blob/main/5-business-project/5-bisiness-project.ipynb)
+### [5. Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста](https://nbviewer.jupyter.org/github/dmitriizakhar/courses-projects/blob/main/5-business-project/5-business-project.ipynb)
 
 **Задача**: Используя данные интернет-магазина приоритезировать гипотезы, произвести оценку результатов A/B-тестирования различными методами.
 
-**Навыки и инструменты**: `Python`, `Pandas`, `Matplotlib`, `SciPy`, `A/B-тестирование`, `проверка статистических гипотез`.
+**Навыки и инструменты**: `Python`, `Pandas`, `Matplotlib`, `SciPy`, `A/B-тестирование`, `проверка статистических гипотез`
 
 ### [6. Исследования рынка общепита в Москве для принятия решения об открытии нового заведения](https://nbviewer.jupyter.org/github/dmitriizakhar/courses-projects/blob/main/6-visualize-project/6-visualize-project.ipynb)
 
