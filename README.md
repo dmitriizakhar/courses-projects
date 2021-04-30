@@ -44,7 +44,7 @@
 
 **Навыки и инструменты**: `Python`, `Pandas`, `Matplotlib`, `Seaborn`, `Plotly`, `A/B-тестирование`, `проверка статистических гипотез`, `событийная аналитика`
 
-## [E-commerce Выявление профилей потребления](https://github/dmitriizakhar/courses-projects/blob/main/8-final-project/)
+## [E-commerce Выявление профилей потребления](https://github.com/dmitriizakhar/courses-projects/tree/main/8-final-project)
 
 **Задача**: Провести исследовнаие, сегментировать покупателей по профилю потребления для создание пресонализированных предложений для покупателей.
 

@@ -6,7 +6,7 @@
 - [Проект E-commerce](https://nbviewer.jupyter.org/github/dmitriizakhar/courses-projects/blob/main/8-final-project/e-commerce.ipynb)
 **Задача:** Провести исследовнаие, сегментировать покупателей по профилю потребления для создание пресонализированных предложений для покупателей, результаты представить в виде презентации и Tableau дашборда.
 
-- [A/B тестирование]((https://nbviewer.jupyter.org/github/dmitriizakhar/courses-projects/blob/main/8-final-project/ab-tests.ipynb)
+- [A/B тестирование](https://nbviewer.jupyter.org/github/dmitriizakhar/courses-projects/blob/main/8-final-project/ab-tests.ipynb)
 **Задача** — провести оценку результатов A/B-теста. В вашем распоряжении есть датасет с действиями пользователей, техническое задание и несколько вспомогательных датасетов. Оцените корректность проведения теста Проанализируйте результаты теста
 
 - [Задание SQL](https://nbviewer.jupyter.org/github/dmitriizakhar/courses-projects/blob/main/8-final-project/sql.ipynb)
